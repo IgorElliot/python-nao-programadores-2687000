@@ -9,3 +9,9 @@
 
 
 # Declare uma variável do tipo booleano
+
+Nome = "IGOR ELLIOT"
+Numero_Inteiro = 6
+Numero_Flutuante = 2.5
+
+Informacao = True
